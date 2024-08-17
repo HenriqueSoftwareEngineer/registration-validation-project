@@ -1,0 +1,18 @@
+{
+  "name": "projeto-validacao-cadastro",
+  "version": "1.0.0",
+  "description": "- Cursor IDE\r - Materiais do Youtube \r - PDFs\r - Outras experiências anteriores\r - ChatGPT (Para direcionamento global)\r - Blackbox AI (Para auxílio e revisão de códigos)\r ## Tecnologias Utilzadas\r ### Frontend\r - HTML5 e CSS3\r - Java Script (Comunicação com o Banco de Dados)\r - MySQL (Banco de Dados)\r ## Estrutura dos Diretórios\r  A estrutura do diretório é simples e fácil de ser manutenida. Eis abaixo o aspecto de organização das pastas:\r  ![alt text](image-2.png)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "mongoose": "^8.5.3"
+  }
+}
